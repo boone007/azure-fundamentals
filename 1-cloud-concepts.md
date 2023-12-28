@@ -104,6 +104,7 @@ Replication resides always within the same Geography as the pair except for Braz
 ## Azure resources and Azure resource Manager
 
 **Resource**: A manageable item within Azure. Like a database or a VM
+
 **Resource group**: A grouping of resources you want to manage as a group.
 
 ### Azure Resource Groups
